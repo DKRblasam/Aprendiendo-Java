@@ -12,13 +12,15 @@ Su valor puede cambiar durante la ejecución.
 
 En Java existen **tres tipos principales de variables**:
 
-### 1️⃣ Variables de instancia
+### 1️⃣ Variables de instancia 
+>"Las veremos mas adelante"
 
 * Pertenecen a un **objeto**
 * Cada objeto tiene su propia copia
 * Se definen dentro de una clase, pero fuera de los métodos
 
 ### 2️⃣ Variables de clase (estáticas)
+>"Las veremos mas adelante"
 
 * Pertenecen a la **clase**
 * Son **compartidas por todos los objetos**
@@ -189,7 +191,8 @@ switch (opcion) {
 
 ✨ **Regla de oro:**
 
-> "Código bien indentado = código profesional y fácil de mantener"
+> "Código bien indentado = algo que si vas a entender"
+> "Si lo entiendes no lloras y haces las cosas bien"
 
 ---
 
