@@ -1,3 +1,9 @@
+
+// Solo copia public static void main(String[] args)
+
+// Aqui van las importaciones simepre, estas van
+// afuera y antes de la clase
+
 public class Ciclos {
 
   public static void main(String[] args) {

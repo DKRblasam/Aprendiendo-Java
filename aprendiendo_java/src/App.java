@@ -2,6 +2,9 @@
 // Las clases son funciones definidas por otros programadores
 // y cualquiera con acceso a ella puede usarla
 
+// Aqui van las importaciones simepres, estas van
+// afuera y antes de la clase
+
 import java.util.*; // Importa la librería java.util completa (Scanner, arreglos, listas, mapas, etc)
 
 public class App {
